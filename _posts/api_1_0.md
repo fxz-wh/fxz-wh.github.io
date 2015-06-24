@@ -1,3 +1,7 @@
+---
+layout: default
+title: 支付系统 API 文档 (版本 1.0-snapshot)
+---
 支付系统 API 文档 (版本 1.0-snapshot)
 ================
 
